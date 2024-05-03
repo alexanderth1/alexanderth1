@@ -6,8 +6,6 @@
 
 - 🌱 Actualmente estoy en la carrera de **Diseño y Desarrollo de Software**
 
-- 📫 Como contactarme **jhoanjimenez793@gmail.com**
-
 <h1 align="center"></h1>
 <!--  -->
 
