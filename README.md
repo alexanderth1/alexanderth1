@@ -4,7 +4,7 @@
 <!-- BREVE DESCRIPCION -->
 - 📚 Actualmente estoy estudiando en [Universidad Estatal de Milagro](https://www.unemi.edu.ec/)
 
-- 🌱 Actualmente estoy en la carrera de **Diseño y Desarrollo de Software**
+- 🌱 Actualmente estoy en la carrera de **Diseño y Desarrollo de Software** Principiante :)
 
 <h1 align="center"></h1>
 <!--  -->
